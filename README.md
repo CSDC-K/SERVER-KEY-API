@@ -4,7 +4,7 @@
 
 # how to work?
 
-* first import module
+-> first import module
 
 * FOR CLIENT
 
